@@ -1,0 +1,7 @@
+.prizes__prize{
+    display: inline-block;
+    margin-left: 2px;
+    padding: 0px 18px 0px 20px;
+    width:290px;
+    text-align: center;
+}

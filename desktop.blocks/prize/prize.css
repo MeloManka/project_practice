@@ -1,0 +1,9 @@
+.prize{
+    display: block;
+    margin:0 auto;
+    min-height: 525px;
+    max-width: 1600px;
+
+    background: url("../../img/Landscape.jpg") no-repeat;
+    text-align: center;
+}

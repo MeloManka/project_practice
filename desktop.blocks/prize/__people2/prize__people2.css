@@ -1,0 +1,20 @@
+.prize__people2{
+    position: absolute;
+    width: 501px;
+    height: 369px;
+    background: url("../../../img/People3.png") no-repeat;
+    margin: 156px 0px 0 330px;
+
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    z-index: 1;
+}
+
+.prize__people2:hover{
+    -moz-transform: translate(0,-9px) scale(1.05);
+    -webkit-transform: translate(0,-9px) scale(1.05);
+    -o-transform: translate(0,-9px) scale(1.05);
+    transform: translate(0,-9px) scale(1.05);
+    z-index: 1;
+}

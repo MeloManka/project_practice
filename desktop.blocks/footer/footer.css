@@ -1,0 +1,10 @@
+.footer{
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    padding-top: 3.3%;
+    height: 180px;
+    background: url("../../img/footer%20bg.jpg");
+    line-height: 20px;
+ }

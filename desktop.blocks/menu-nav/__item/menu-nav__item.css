@@ -1,0 +1,12 @@
+.menu-nav__item{
+
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+    padding: 0 1.05%;
+
+    color:#adc1ea;
+    font-family: OpenSans-Regular;
+    font-size: 13px;
+    text-decoration: underline;
+}

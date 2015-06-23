@@ -1,0 +1,30 @@
+.rules__description{
+    display: block;
+
+    width: 455px;
+    height: 105px;
+
+    color:#000000;
+    font-family: OpenSans-Light;
+    font-size: 17px;
+    text-align: left;
+    line-height: 29px;
+}
+
+@media screen and (min-width:200px) and (max-width:480px) {
+    .rules__description{
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width:481px) and (max-width:900px) {
+    .rules__description{
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width:901px) and (max-width:1500px) {
+    .rules__description{
+        font-size: 16px;
+    }
+}

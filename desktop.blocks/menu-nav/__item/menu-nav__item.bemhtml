@@ -1,0 +1,7 @@
+block('menu-nav').elem('item')(
+      attrs()(function() {
+          var ctx = this.ctx;
+          return { href: ctx.url, title: ctx.content }
+      })
+  );
+

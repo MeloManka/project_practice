@@ -1,0 +1,12 @@
+.prize__title{
+     width: 560px;
+     height: 115px;
+/*     margin: 113px 0px 0px 397px;*/
+     /*    margin: 7.1% 0px 0px 25%;*/
+     font-family: OpenSans-Light;
+     font-size: 49.91px;
+     color:#000000;
+     line-height: 64.88px;
+     text-align: left;
+    z-index: 3;
+ }

@@ -1,0 +1,16 @@
+.prizes__number{
+    display: inline-block;
+float: left;
+     height: 50px;
+     width: 50px;
+     background:url("../../../img/Count%20bg.png") no-repeat;
+
+    font-size: 20px;
+    font-family: Georgia;
+    color:#ffffff;
+    font-weight: bold;
+    padding-top: 4%;
+margin-right: 2%;
+
+
+ }

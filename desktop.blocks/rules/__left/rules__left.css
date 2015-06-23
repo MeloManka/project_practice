@@ -1,0 +1,32 @@
+.rules__left{
+    display: block;
+    position: relative;
+    margin: 77px 0px 0px 330px;
+/*    margin: 4.9% 0 0 20.6%;*/
+    padding: 0;
+    height: auto;
+    width: auto;
+    float: left;
+    z-index: 2;
+}
+
+@media screen and (min-width:200px) and (max-width:480px) {
+    .rules__left{
+        margin: 77px 0px 0px 30px;
+        width: 10%;
+    }
+}
+
+@media screen and (min-width:481px) and (max-width:900px) {
+    .rules__left{
+        margin: 77px 0px 0px 130px;
+        width: 40%;
+    }
+}
+
+@media screen and (min-width:901px) and (max-width:1500px) {
+    .rules__left{
+        margin: 77px 0px 0px 230px;
+        width: 50%;
+    }
+}

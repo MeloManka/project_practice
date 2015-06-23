@@ -1,0 +1,14 @@
+.rules__image1{
+    height: 346px;
+    width: 588px;
+    background: url("../../../img/Item%201.png") no-repeat;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+.rules__image1:hover{
+    -moz-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    transform: scale(1.05);
+}

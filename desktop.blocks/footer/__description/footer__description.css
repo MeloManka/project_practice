@@ -1,0 +1,10 @@
+.footer__description{
+    float: left;
+    font-family: "Times New Roman";
+    font-size: 12px;
+    height: 72px;
+    width: 538px;
+    color:#ffffff;
+    margin-right: 6.3%;
+    line-height: 20px;
+}

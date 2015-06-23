@@ -1,0 +1,12 @@
+.prize__description{
+    width: 510px;
+    height: 40px;
+    margin: 45px 0 0 10px;
+  /*  margin: 2.4% 0px 0px 45.6%;*/
+    font-family: OpenSans-Regular;
+    font-size: 15px;
+    color:#000000;
+    line-height: 25px;
+    text-align: left;
+    z-index: 3;
+}

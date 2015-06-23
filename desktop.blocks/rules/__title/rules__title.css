@@ -1,0 +1,25 @@
+.rules__title{
+    display: block;
+    color:#000000;
+    font-family: OpenSans-Light;
+    font-size: 50px;
+    text-align: left;
+}
+
+@media screen and (min-width:200px) and (max-width:480px) {
+    .rules__title{
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width:481px) and (max-width:900px) {
+    .rules__title{
+        font-size: 30px;
+    }
+}
+
+@media screen and (min-width:901px) and (max-width:1500px) {
+    .rules__title{
+        font-size: 40px;
+    }
+}

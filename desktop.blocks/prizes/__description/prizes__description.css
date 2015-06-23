@@ -1,0 +1,12 @@
+.prizes__description{
+display: inline-block;
+float: left;
+    height: 42px;
+    width: 220px;
+
+    line-height: 20px;
+    font-family: OpenSans-Regular;
+    font-size: 17px;
+    text-align: left;
+    margin-top: 2%;
+}
